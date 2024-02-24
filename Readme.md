@@ -1,5 +1,6 @@
 # Exploring Kotlin: A Comprehensive Introduction to the Modern JVM Language
 
+<pre>
 1. Introduction to Kotlin
    1.1 What is Kotlin?
    1.2 Why Kotlin?
@@ -105,6 +106,8 @@
     13.2 Online Courses
     13.3 Documentation and References
     13.4 Kotlin Community Resources
+
+</pre>
 
 ## 1. Introduction to Kotlin
 
